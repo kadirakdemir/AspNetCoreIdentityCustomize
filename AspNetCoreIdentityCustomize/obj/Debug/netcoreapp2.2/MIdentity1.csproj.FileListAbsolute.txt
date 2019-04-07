@@ -1,0 +1,14 @@
+C:\Users\MK\source\repos\MIdentity1\bin\Debug\netcoreapp2.2\MIdentity1.deps.json
+C:\Users\MK\source\repos\MIdentity1\bin\Debug\netcoreapp2.2\MIdentity1.runtimeconfig.json
+C:\Users\MK\source\repos\MIdentity1\bin\Debug\netcoreapp2.2\MIdentity1.runtimeconfig.dev.json
+C:\Users\MK\source\repos\MIdentity1\bin\Debug\netcoreapp2.2\MIdentity1.dll
+C:\Users\MK\source\repos\MIdentity1\bin\Debug\netcoreapp2.2\MIdentity1.pdb
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.csprojAssemblyReference.cache
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.csproj.CoreCompileInputs.cache
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.RazorAssemblyInfo.cache
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.RazorAssemblyInfo.cs
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.AssemblyInfoInputs.cache
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.AssemblyInfo.cs
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.RazorTargetAssemblyInfo.cache
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.dll
+C:\Users\MK\source\repos\MIdentity1\obj\Debug\netcoreapp2.2\MIdentity1.pdb
